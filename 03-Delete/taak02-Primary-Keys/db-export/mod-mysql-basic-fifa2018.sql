@@ -233,7 +233,6 @@ INSERT INTO `players` (`id`, `name`, `age`, `nationality`, `club`, `value`, `wag
 (198717, 'W. Zaha ', 24, 'Ivory Coast ', 'Crystal Palace ', 225000000, 60000),
 (198784, 'A. Oxlade-Chamberlain ', 23, 'England ', 'Liverpool ', 20000000, 105000),
 (199304, 'Danilo ', 25, 'Brazil ', 'Manchester City ', 105000000, 95000),
-(199304, 'Danilo ', 25, 'Brazil ', 'Manchester City ', 105000000, 95000),
 (199564, 'Sergi Roberto ', 25, 'Spain ', 'FC Barcelona ', 195000000, 140000),
 (199568, 'K. Lamprou ', 25, 'Greece ', 'Ajax ', 46000000, 9000),
 (199987, 'J. Cillessen ', 28, 'Netherlands ', 'FC Barcelona ', 15000000, 125000),
